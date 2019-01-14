@@ -1,0 +1,30 @@
+html{
+    
+    margin: 0;
+    padding: 0;
+    border: 0;
+   
+}
+body {
+    height: 100%;
+    background-image: url("http://www.fsh.es/wp-content/uploads/2015/09/fondo-azul-2.jpg");
+    background-size: 100%;
+  }
+
+canvas{
+    margin: 0;
+    padding: 0;
+    display: block;
+    touch-action: none; 
+}
+h1{
+    color: snow;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    font-size:400%;
+    font-family: 'Lucida Handwriting', cursive;
+}
